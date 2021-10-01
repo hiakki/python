@@ -1,0 +1,273 @@
+1. Skipping this TG - bac-cicd-trigger, as Alerts Tag is not setup in its instance - ['i-03b1c6d155d219d83'] and key_exists - 0.
+1. bac-p-AB-service platform-team-alerts ['i-0ebb41a496ac00439'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-AB-service/ec7f8ce5312c6ce1 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+2. Skipping this TG - bac-p-CIS-consumer, as Alerts Tag is not setup in its instance - ['i-0a05a79d3106dbbc9'] and key_exists - 0.
+3. Skipping this TG - bac-p-CIS-ingestion, as Alerts Tag is not setup in its instance - ['i-09b7cc8eb4f85119f'] and key_exists - 0.
+2. bac-p-ab-worker-tg platform-team-alerts ['i-072ef1928dcd28486'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-ab-worker-tg/22197bb29c6ae161 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+4. Skipping this TG - bac-p-address-search, as Alerts Tag is not setup in its instance - ['i-07b1ca65a60c33065'] and key_exists - 0.
+5. Skipping this TG - bac-p-advertisement, as Alerts Tag is not setup in its instance - ['i-00605860f96f572e7'] and key_exists - 0.
+6. Skipping this TG - bac-p-advertisement-admin, as Alerts Tag is not setup in its instance - ['i-0e189cd226ad98f42'] and key_exists - 0.
+7. Skipping this TG - bac-p-agent-supp-aggregator-tg, as Alerts Tag is not setup in its instance - ['i-0e97d9d41fb384773'] and key_exists - 0.
+8. Skipping this TG - bac-p-ap-retryutil-worker-tg, as Alerts Tag is not setup in its instance - ['i-0a039c9e91e22b1ed'] and key_exists - 0.
+9. Skipping this TG - bac-p-api-payout-consumer-tg, as Alerts Tag is not setup in its instance - ['i-0cfb022d06577b667'] and key_exists - 0.
+10. Skipping this TG - bac-p-api-payout-scheduler-tg, as Alerts Tag is not setup in its instance - ['i-0fe9b4a08d056b7dd'] and key_exists - 0.
+11. Skipping this TG - bac-p-api-payout-web-tg, as Alerts Tag is not setup in its instance - ['i-003796c406190ed09'] and key_exists - 0.
+12. Skipping this TG - bac-p-bonus-tg, as Alerts Tag is not setup in its instance - ['i-0444bd418b8975687'] and key_exists - 0.
+3. bac-p-bulletin-tg platform-team-alerts ['i-0b680757f6b7a7847'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-bulletin-tg/d65261613097f26f arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+13. Skipping this TG - bac-p-cart-int-tg, as Alerts Tag is not setup in its instance - ['i-0d7549d627ad9cec1'] and key_exists - 0.
+14. Skipping this TG - bac-p-cart-internal-tg, as Alerts Tag is not setup in its instance - ['i-00ead4f94f3b0d8d1'] and key_exists - 0.
+15. Skipping this TG - bac-p-cart-tg, as Alerts Tag is not setup in its instance - ['i-060b72db67ed1c688'] and key_exists - 0.
+16. Skipping this TG - bac-p-cdp-tg, as no Instances are attached to it.
+17. Skipping this TG - bac-p-cicd-tg, as Alerts Tag is not setup in its instance - ['i-03b1c6d155d219d83'] and key_exists - 0.
+4. bac-p-cms-consumer platform-team-alerts ['i-09032c05f70d0c558'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-cms-consumer/e4a5b581421f88bb arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+5. bac-p-cms-scheduler-tg platform-team-alerts ['i-0c07bd12b0cdd1eb5'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-cms-scheduler-tg/0da8f6467e9b442a arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+6. bac-p-cms-web-tg platform-team-alerts ['i-01fea7ffa93fc19f0'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-cms-web-tg/14d8c17cff65584d arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+18. Skipping this TG - bac-p-communicator-admin, as Alerts Tag is not setup in its instance - ['i-096b7157f5d18d9c1'] and key_exists - 0.
+19. Skipping this TG - bac-p-communicator-service-tg, as Alerts Tag is not setup in its instance - ['i-05d0788874730f6bd'] and key_exists - 0.
+20. Skipping this TG - bac-p-community, as Alerts Tag is not setup in its instance - ['i-0139b89b1f1ae0766'] and key_exists - 0.
+21. Skipping this TG - bac-p-community-bot, as Alerts Tag is not setup in its instance - ['i-0319035408c8ae5b9'] and key_exists - 0.
+22. Skipping this TG - bac-p-community-consumer-tg, as Alerts Tag is not setup in its instance - ['i-01ebbc73c5f1292f9'] and key_exists - 0.
+7. bac-p-competetion-enricher platform-team-alerts ['i-048f02082ac2f76b9'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-competetion-enricher/968c514de02c10f2 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-ums/aa125869f2978360
+8. bac-p-config-service-internal-tg platform-team-alerts ['i-0bebcd18a977bca5f'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-config-service-internal-tg/11cfeaba7eb85e61 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+9. bac-p-config-service-tg platform-team-alerts ['i-00ffc2dd0ad3ec665'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-config-service-tg/31bb7cb6bd1f61f3 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+10. bac-p-ctqct feed-tech-alerts ['i-0071a75f9df15cf24'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-ctqct/69b1a839fc591045 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-file-upload-service-alb/0b12b281ccf49451
+23. Skipping this TG - bac-p-datascience-relay-tg, as Alerts Tag is not setup in its instance - ['i-092ba3f6bb59e4f7d'] and key_exists - 0.
+24. Skipping this TG - bac-p-datascience-relay-worker, as Alerts Tag is not setup in its instance - ['i-06ace853a0a219d1c'] and key_exists - 0.
+25. Skipping this TG - bac-p-db-access, as Alerts Tag is not setup in its instance - ['i-065247697f9421837'] and key_exists - 0.
+26. Skipping this TG - bac-p-db-access-new, as Alerts Tag is not setup in its instance - ['i-065247697f9421837'] and key_exists - 0.
+27. Skipping this TG - bac-p-disable-enable-asg, as Alerts Tag is not setup in its instance - ['i-0b74a65028ccef0c6'] and key_exists - 0.
+11. bac-p-edge-proxy platform-team-alerts ['i-0d819d58d39f08dc9'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-edge-proxy/bcb24191dcd19253 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/supply-api-v2-prod/26fa023a1d2c0d0f
+12. bac-p-edge-proxy-int platform-team-alerts ['i-0c6da9561eb9ba1e8'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-edge-proxy-int/a4e7c52f15831fec arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/meesho-supplier-home-prod/e68e0a9e94116bf7
+13. bac-p-edge-proxy-int-second-tg platform-team-alerts ['i-0c6da9561eb9ba1e8'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-edge-proxy-int-second-tg/717fe6448d110400 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+14. bac-p-edge-proxy-second-tg platform-team-alerts ['i-0c6da9561eb9ba1e8'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-edge-proxy-second-tg/a19054e038d4df9a arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/supply-api-v2-prod/26fa023a1d2c0d0f
+28. Skipping this TG - bac-p-external-payment-gateway, as Alerts Tag is not setup in its instance - ['i-077113203de14ab32'] and key_exists - 0.
+15. bac-p-farmiso-pub farmiso-devops-alerts ['i-0cbb84f9afbd66fbf'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-farmiso-pub/ec8f40fc388b7278 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/front-p-reseller-website/f17aa1e39f9c9851
+16. bac-p-farmiso-tg farmiso-devops-alerts ['i-0cbb84f9afbd66fbf'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-farmiso-tg/df6b9e43771663c0 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-producer-alb/90701f6c1bb98c7b
+29. Skipping this TG - bac-p-fastrack, as Alerts Tag is not setup in its instance - ['i-040a065d2e1b02bfa'] and key_exists - 0.
+30. Skipping this TG - bac-p-feed-secondary-tg, as Alerts Tag is not setup in its instance - ['i-0b0fc934448beae4e'] and key_exists - 0.
+17. bac-p-feed-tg feed-tech-alerts ['i-05c6847669cbbc15d'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-feed-tg/2fe4ec10a4416a1a arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+18. bac-p-feed-vs feed-tech-alerts ['i-0aa0ba407a896591f'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-feed-vs/2f9ae8fd3f56f6e8 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+31. Skipping this TG - bac-p-feedaggregator-secondary, as Alerts Tag is not setup in its instance - ['i-0eff2a76952bfe4a5'] and key_exists - 0.
+32. Skipping this TG - bac-p-feedaggregator-tg, as Alerts Tag is not setup in its instance - ['i-065f7e5d8d3667fac'] and key_exists - 0.
+33. Skipping this TG - bac-p-file-payout-consumer-tg, as Alerts Tag is not setup in its instance - ['i-0c5e10e7d5b01f65b'] and key_exists - 0.
+34. Skipping this TG - bac-p-file-payout-tg, as Alerts Tag is not setup in its instance - ['i-0e0082293056a46e2'] and key_exists - 0.
+35. Skipping this TG - bac-p-file-upload-tg, as Alerts Tag is not setup in its instance - ['i-0bb1e5dd7bc626f4d'] and key_exists - 0.
+36. Skipping this TG - bac-p-gamification-consumer, as Alerts Tag is not setup in its instance - ['i-0b669665798658c69'] and key_exists - 0.
+37. Skipping this TG - bac-p-gamification-tg, as Alerts Tag is not setup in its instance - ['i-0894b2cfe511507a8'] and key_exists - 0.
+38. Skipping this TG - bac-p-gatewayservice, as Alerts Tag is not setup in its instance - ['i-0adb28fc240750ec0'] and key_exists - 0.
+39. Skipping this TG - bac-p-gatewayservice-clevertap, as Alerts Tag is not setup in its instance - ['i-016f85fe4c9b38c1e'] and key_exists - 0.
+40. Skipping this TG - bac-p-graylog, as Alerts Tag is not setup in its instance - ['i-0a673fbce42a5b729'] and key_exists - 0.
+19. bac-p-growthmarketing growth-infra-alerts ['i-0341dba42942e96cc'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-growthmarketing/13dcf411ace9e9b7 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+20. bac-p-hawk-eye feed-tech-alerts ['i-0632f656d9b5c80dc'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-hawk-eye/020d11066ce82b44 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+21. bac-p-ingestion-new data-platform-alerts ['i-05d339a81acc53aab'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-ingestion-new/c4a4a00fa6f86680 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/supply-api-v2-prod/26fa023a1d2c0d0f
+22. bac-p-ingestion-schema-registry data-platform-alerts ['i-05b813ddcc262ab03'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-ingestion-schema-registry/ed1032a09dfb8d21 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+23. bac-p-injector-tg platform-team-alerts ['i-0acc7b163b4edba3b'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-injector-tg/ba525208b6f15ed6 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+24. bac-p-inventory-admin-new supplier-services-alerts ['i-074996491fbf77d02'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-inventory-admin-new/ab273ce14e003c25 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+41. Skipping this TG - bac-p-inventory-new, as Alerts Tag is not setup in its instance - ['i-0343fe70e6f0d2dd8'] and key_exists - 0.
+42. Skipping this TG - bac-p-invoice-web, as Alerts Tag is not setup in its instance - ['i-0d105829d03f81673'] and key_exists - 0.
+43. Skipping this TG - bac-p-jenkins-sonar-tg, as Alerts Tag is not setup in its instance - ['i-005c2163dc371984c'] and key_exists - 0.
+44. Skipping this TG - bac-p-jfrog, as Alerts Tag is not setup in its instance - ['i-026e26a446ce67d1b'] and key_exists - 0.
+45. Skipping this TG - bac-p-journey-consumer-tg, as Alerts Tag is not setup in its instance - ['i-0cd53441a26196f5f'] and key_exists - 0.
+46. Skipping this TG - bac-p-journey-tg, as Alerts Tag is not setup in its instance - ['i-0f9e139a602e2f4b7'] and key_exists - 0.
+47. Skipping this TG - bac-p-leaderboard-tg, as Alerts Tag is not setup in its instance - ['i-0fde513a9df4aeaa9'] and key_exists - 0.
+25. bac-p-login platform-team-alerts ['i-03c6f1f7c88706e3b'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-login/1498ad061a804bf4 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-ums/aa125869f2978360
+48. Skipping this TG - bac-p-logo-tg, as Alerts Tag is not setup in its instance - ['i-0381d76cc4df3acf0'] and key_exists - 0.
+49. Skipping this TG - bac-p-manifest, as Alerts Tag is not setup in its instance - ['i-075e4d076d88e5301'] and key_exists - 0.
+50. Skipping this TG - bac-p-manifest-bluedart-shipment, as Alerts Tag is not setup in its instance - ['i-088d3dfe75e4dfce1'] and key_exists - 0.
+51. Skipping this TG - bac-p-manifest-delhivery, as Alerts Tag is not setup in its instance - ['i-088d3dfe75e4dfce1'] and key_exists - 0.
+52. Skipping this TG - bac-p-manifest-ecom-shipment, as Alerts Tag is not setup in its instance - ['i-088d3dfe75e4dfce1'] and key_exists - 0.
+53. Skipping this TG - bac-p-manifest-file-upload, as Alerts Tag is not setup in its instance - ['i-0ad4287dfc1f7dc70'] and key_exists - 0.
+54. Skipping this TG - bac-p-manifest-internal, as Alerts Tag is not setup in its instance - ['i-0deffb6ad78aaa54d'] and key_exists - 0.
+55. Skipping this TG - bac-p-manifest-jusda-shipment, as Alerts Tag is not setup in its instance - ['i-088d3dfe75e4dfce1'] and key_exists - 0.
+56. Skipping this TG - bac-p-manifest-shadowfax, as Alerts Tag is not setup in its instance - ['i-088d3dfe75e4dfce1'] and key_exists - 0.
+57. Skipping this TG - bac-p-manifest-supply, as Alerts Tag is not setup in its instance - ['i-0083dbb95b683ed59'] and key_exists - 0.
+58. Skipping this TG - bac-p-manifest-track-shipment, as Alerts Tag is not setup in its instance - ['i-088d3dfe75e4dfce1'] and key_exists - 0.
+59. Skipping this TG - bac-p-manifest-worker, as Alerts Tag is not setup in its instance - ['i-088d3dfe75e4dfce1'] and key_exists - 0.
+60. Skipping this TG - bac-p-manifest-xpressbees, as Alerts Tag is not setup in its instance - ['i-088d3dfe75e4dfce1'] and key_exists - 0.
+61. Skipping this TG - bac-p-mba-tg, as Alerts Tag is not setup in its instance - ['i-0d4cd2e23dea491d6'] and key_exists - 0.
+26. bac-p-media supplier-services-alerts ['i-0bdc3a52a7285693e'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-media/b9d233fefbca1d46 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+27. bac-p-media-supply supplier-services-alerts ['i-0bdc3a52a7285693e'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-media-supply/90dc0068f0e1a2a2 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/supply-api-v2-prod/26fa023a1d2c0d0f
+28. bac-p-merchandising feed-tech-alerts ['i-078752b6e1cc0de62'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-merchandising/da50b220c3245dc6 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+29. bac-p-merchandising-admin-tg feed-tech-alerts ['i-0b1938d83bbbd4392'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-merchandising-admin-tg/ae0ef141fef364da arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+62. Skipping this TG - bac-p-merchandising-internal, as Alerts Tag is not setup in its instance - ['i-0905c74e2c3e8ea58'] and key_exists - 0.
+63. Skipping this TG - bac-p-mini-url-int-tg, as Alerts Tag is not setup in its instance - ['i-097f6170982db2333'] and key_exists - 0.
+64. Skipping this TG - bac-p-mini-url-tg, as Alerts Tag is not setup in its instance - ['i-097f6170982db2333'] and key_exists - 0.
+30. bac-p-notification-consumer-tg platform-team-alerts ['i-0923c74c416dbc9da'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-notification-consumer-tg/80c4e7d8c06283c1 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+31. bac-p-notification-store-tg platform-team-alerts ['i-0e7fe2547f6e40eed'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-notification-store-tg/e313c4cdbe5acc4c arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+65. Skipping this TG - bac-p-oauth-tg, as Alerts Tag is not setup in its instance - ['i-08dc7e1c47f715ca3'] and key_exists - 0.
+32. bac-p-onboarding growth-infra-alerts ['i-0cf1ae473717333c4'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-onboarding/684465d94241b390 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+66. Skipping this TG - bac-p-opp-tg, as Alerts Tag is not setup in its instance - ['i-00f5d2cd071c308e0'] and key_exists - 0.
+67. Skipping this TG - bac-p-order-qwest, as Alerts Tag is not setup in its instance - ['i-00debe0f2c512eab2'] and key_exists - 0.
+68. Skipping this TG - bac-p-order-reconciliation, as Alerts Tag is not setup in its instance - ['i-0838114ec21b69791'] and key_exists - 0.
+69. Skipping this TG - bac-p-order-search-cron-tg, as Alerts Tag is not setup in its instance - ['i-0c9bf29640f3befb8'] and key_exists - 0.
+70. Skipping this TG - bac-p-order-search-tg, as Alerts Tag is not setup in its instance - ['i-041654e9dbd49f079'] and key_exists - 0.
+71. Skipping this TG - bac-p-order-service-tg, as Alerts Tag is not setup in its instance - ['i-04c0fef1c9c4a2118'] and key_exists - 0.
+72. Skipping this TG - bac-p-order-service-worker-tg, as Alerts Tag is not setup in its instance - ['i-030109aed3910beb4'] and key_exists - 0.
+73. Skipping this TG - bac-p-order-state-management-tg, as Alerts Tag is not setup in its instance - ['i-0aaf8e85ebb5e1d8a'] and key_exists - 0.
+74. Skipping this TG - bac-p-osm-supply, as Alerts Tag is not setup in its instance - ['i-0bcefd8fc79bd040b'] and key_exists - 0.
+75. Skipping this TG - bac-p-pa-consumer-tg, as Alerts Tag is not setup in its instance - ['i-02b88dc9b45cf18fb'] and key_exists - 0.
+76. Skipping this TG - bac-p-pa-retryutil-tg, as Alerts Tag is not setup in its instance - ['i-0331500f577b1d0e8'] and key_exists - 0.
+77. Skipping this TG - bac-p-payment-aggregator-web-tg, as Alerts Tag is not setup in its instance - ['i-06a7990dbb84bc868'] and key_exists - 0.
+78. Skipping this TG - bac-p-payment-consumer, as Alerts Tag is not setup in its instance - ['i-0703cbc16777d2fe5'] and key_exists - 0.
+79. Skipping this TG - bac-p-payment-consumerZsetWorker, as Alerts Tag is not setup in its instance - ['i-0d7b43cf045acaf3c'] and key_exists - 0.
+80. Skipping this TG - bac-p-payment-scheduler, as Alerts Tag is not setup in its instance - ['i-0584e520fdbea77c8'] and key_exists - 0.
+81. Skipping this TG - bac-p-payment-statusQProcessor, as Alerts Tag is not setup in its instance - ['i-0d7b43cf045acaf3c'] and key_exists - 0.
+82. Skipping this TG - bac-p-payment-statusZsetWorker, as Alerts Tag is not setup in its instance - ['i-0d7b43cf045acaf3c'] and key_exists - 0.
+83. Skipping this TG - bac-p-payments, as Alerts Tag is not setup in its instance - ['i-0d7b43cf045acaf3c'] and key_exists - 0.
+84. Skipping this TG - bac-p-pc-consumer-tg, as Alerts Tag is not setup in its instance - ['i-0fb50d1d39c4f6573'] and key_exists - 0.
+85. Skipping this TG - bac-p-pc-retryutils-tg, as Alerts Tag is not setup in its instance - ['i-06c5868380a005524'] and key_exists - 0.
+86. Skipping this TG - bac-p-pc-web-tg, as Alerts Tag is not setup in its instance - ['i-05d063a50a2e9e070'] and key_exists - 0.
+87. Skipping this TG - bac-p-pdf, as Alerts Tag is not setup in its instance - ['i-021c09d17e7d249be'] and key_exists - 0.
+88. Skipping this TG - bac-p-poa-supply-admin-tg, as Alerts Tag is not setup in its instance - ['i-088a9fa293258b87e'] and key_exists - 0.
+89. Skipping this TG - bac-p-poa-supply-tg, as Alerts Tag is not setup in its instance - ['i-088a9fa293258b87e'] and key_exists - 0.
+90. Skipping this TG - bac-p-post-order-aggregator-tg, as Alerts Tag is not setup in its instance - ['i-05f9214f4e293ac2e'] and key_exists - 0.
+33. bac-p-post-order-commn-tg supplier-services-alerts ['i-05706bfca10672277'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-post-order-commn-tg/768a6f75f03729e4 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+91. Skipping this TG - bac-p-pow-tg, as Alerts Tag is not setup in its instance - ['i-05597d3066600e161'] and key_exists - 0.
+92. Skipping this TG - bac-p-pricing, as Alerts Tag is not setup in its instance - ['i-0a1424375ee793a83'] and key_exists - 0.
+34. bac-p-pricing-admin supplier-services-alerts ['i-0a9835e318f6bff84'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-pricing-admin/2366f4cb55468bd0 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+93. Skipping this TG - bac-p-prod-api, as Instance - ['i-0a9835e318f6bff84'] has State - unused.
+35. bac-p-prod-api supplier-services-alerts ['i-0a9835e318f6bff84'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-prod-api/eee4dddb169b6b9d arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-public-alb/8338e73df7bb583c
+36. bac-p-producer-new supplier-services-alerts ['i-017c72a66a623e316'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-producer-new/8a1da191c1280bc3 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-producer-alb/90701f6c1bb98c7b
+94. Skipping this TG - bac-p-promo-TG, as Alerts Tag is not setup in its instance - ['i-03e4020a737519145'] and key_exists - 0.
+95. Skipping this TG - bac-p-pwa, as Instance - ['i-03e4020a737519145'] has State - unused.
+37. bac-p-qwest-cron search-tech-alerts ['i-0abfdae832f1f707d'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-qwest-cron/132e13f394ec5f4f arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+96. Skipping this TG - bac-p-qwest-internal-tg, as Alerts Tag is not setup in its instance - ['i-0f5d8f8b90f696d5b'] and key_exists - 0.
+38. bac-p-qwest-sf-worker-tg search-tech-alerts ['i-0741ce43a803d07eb'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-qwest-sf-worker-tg/b0465ece125eeba1 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+39. bac-p-qwest-vs-worker-tg search-tech-alerts ['i-05f8651b8b503340c'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-qwest-vs-worker-tg/1165776156f76655 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+40. bac-p-qwest-worker-tg search-tech-alerts ['i-0f461127deeaef960'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-qwest-worker-tg/9c7599ac2889cc54 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+41. bac-p-recommendation-service supplier-services-alerts ['i-041de707882c779a0'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-recommendation-service/11076c0f7abd1959 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+42. bac-p-referral-earnings growth-infra-alerts ['i-0680dfc7cbd7b4240'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-referral-earnings/1548e0d3b5180fd8 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-ums/aa125869f2978360
+43. bac-p-referral-earnings-worker growth-infra-alerts ['i-01ce0e871dcd69cf3'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-referral-earnings-worker/725413d90c7b6aad arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-ums/aa125869f2978360
+97. Skipping this TG - bac-p-reseller-payment-tg, as Alerts Tag is not setup in its instance - ['i-00b84a46af8383e74'] and key_exists - 0.
+98. Skipping this TG - bac-p-reseller-pricing-tg, as no Instances are attached to it.
+44. bac-p-reseller-tracking-consumer platform-team-alerts ['i-03b980defe697cb14'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-reseller-tracking-consumer/cb468d5f57930ce8 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+45. bac-p-reseller-tracking-tg platform-team-alerts ['i-0bda074fc9b72e63a'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-reseller-tracking-tg/ab6fa0a902c274d6 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+99. Skipping this TG - bac-p-review-service, as Alerts Tag is not setup in its instance - ['i-0d41772016ee3073c'] and key_exists - 0.
+46. bac-p-reviewadmin-service supplier-services-alerts ['i-03f21b183ea39aded'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-reviewadmin-service/6fdd16d8af6712fa arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+100. Skipping this TG - bac-p-rp-consumer-tg, as Alerts Tag is not setup in its instance - ['i-08304ed8d8a051353'] and key_exists - 0.
+101. Skipping this TG - bac-p-rp-scheduler-tg, as Alerts Tag is not setup in its instance - ['i-0b35da09aa08e09cc'] and key_exists - 0.
+102. Skipping this TG - bac-p-rule-engine, as Alerts Tag is not setup in its instance - ['i-0dd3b78f344cec0bb'] and key_exists - 0.
+47. bac-p-search-preprocessor-int-tg search-tech-alerts ['i-0e4720f162053840e'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-search-preprocessor-int-tg/dddf5233819cb06b arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/platform-p-qwest-alb/81c1378f6eee6c30
+103. Skipping this TG - bac-p-search-preprocessor-tg, as Alerts Tag is not setup in its instance - ['i-009c767d89dc40ec6'] and key_exists - 0.
+48. bac-p-search-rule-engine-tg search-tech-alerts ['i-0d36dd9b7cbf6859d'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-search-rule-engine-tg/018859b3e6b6d51c arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/devops-int-alb/5a2b53a26061cca0
+104. Skipping this TG - bac-p-sniper-tg, as Alerts Tag is not setup in its instance - ['i-0052206c994d73647'] and key_exists - 0.
+105. Skipping this TG - bac-p-sort-filter-tg, as it is not attahced to any ELB
+106. Skipping this TG - bac-p-storefront-app-events, as it is not attahced to any ELB
+107. Skipping this TG - bac-p-storefront-app-primary, as Alerts Tag is not setup in its instance - ['i-0030a9a8a2bf15018'] and key_exists - 0.
+108. Skipping this TG - bac-p-storefront-app-primary-new, as no Instances are attached to it.
+109. Skipping this TG - bac-p-storefront-app-secondary, as Alerts Tag is not setup in its instance - ['i-0216477960d38b330'] and key_exists - 0.
+110. Skipping this TG - bac-p-storefront-int, as Alerts Tag is not setup in its instance - ['i-08c63764b668538e3'] and key_exists - 0.
+111. Skipping this TG - bac-p-storefront-int-primary, as Alerts Tag is not setup in its instance - ['i-04e0831b30f98855e'] and key_exists - 0.
+112. Skipping this TG - bac-p-storefront-int-secondary, as Alerts Tag is not setup in its instance - ['i-013bc2f4a97d8d5dc'] and key_exists - 0.
+113. Skipping this TG - bac-p-storefront-reroute, as Alerts Tag is not setup in its instance - ['i-08c63764b668538e3'] and key_exists - 0.
+114. Skipping this TG - bac-p-supplier-payment-tg, as Alerts Tag is not setup in its instance - ['i-06275f94182cc8dcb'] and key_exists - 0.
+115. Skipping this TG - bac-p-supplier-payment-web-tg, as Alerts Tag is not setup in its instance - ['i-057a399dc2e0073eb'] and key_exists - 0.
+116. Skipping this TG - bac-p-supplier-search, as Alerts Tag is not setup in its instance - ['i-0368068fb4e867634'] and key_exists - 0.
+49. bac-p-supplier-store-admin-tg supplier-services-alerts ['i-0f36fccac7fd4c6ac'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-supplier-store-admin-tg/96af7c529344a331 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+117. Skipping this TG - bac-p-supplier-store-tg, as Alerts Tag is not setup in its instance - ['i-0a0c8d252c266c86c'] and key_exists - 0.
+118. Skipping this TG - bac-p-supplier-ums-tg, as Alerts Tag is not setup in its instance - ['i-06d9ce9ff8070fbed'] and key_exists - 0.
+119. Skipping this TG - bac-p-supply-api-p1-int-tg, as no Instances are attached to it.
+120. Skipping this TG - bac-p-supply-ios, as no Instances are attached to it.
+121. Skipping this TG - bac-p-supply-read-only, as Alerts Tag is not setup in its instance - ['i-0537cf9314c67f03d'] and key_exists - 0.
+122. Skipping this TG - bac-p-supply-readonly-tg, as Alerts Tag is not setup in its instance - ['i-0537cf9314c67f03d'] and key_exists - 0.
+123. Skipping this TG - bac-p-supply-toss-tg, as Alerts Tag is not setup in its instance - ['i-0c83bc28b964fc06e'] and key_exists - 0.
+124. Skipping this TG - bac-p-supplyapi-int-tg, as Alerts Tag is not setup in its instance - ['i-047721040999e79a5'] and key_exists - 0.
+50. bac-p-taxonomy-admin supplier-services-alerts ['i-068158ed0615fe855'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-taxonomy-admin/010003c9fec9cc95 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+51. bac-p-taxonomy-consumer supplier-services-alerts ['i-0094f71797c970158'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-taxonomy-consumer/845799f4a265b49b arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+125. Skipping this TG - bac-p-taxonomy-int-tg, as Alerts Tag is not setup in its instance - ['i-0c6713a440f2cf54d'] and key_exists - 0.
+126. Skipping this TG - bac-p-taxonomy-internal, as Alerts Tag is not setup in its instance - ['i-0905c74e2c3e8ea58'] and key_exists - 0.
+127. Skipping this TG - bac-p-tinder, as no Instances are attached to it.
+52. bac-p-trends-scraper-pp-tg platform-team-alerts ['i-07b63cc46abf914b5'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-trends-scraper-pp-tg/58523b8943f45aa6 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+128. Skipping this TG - bac-p-turbine, as Alerts Tag is not setup in its instance - ['i-013c00174f14a1817'] and key_exists - 0.
+53. bac-p-ums platform-team-alerts ['i-0a9711e10ccac54b0'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-ums/3fc78bb0ca1e21d9 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-ums/aa125869f2978360
+54. bac-p-ums-fallback-tg platform-team-alerts ['i-02461a5e84eff9528'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-ums-fallback-tg/2c0897998714f406 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-ums/aa125869f2978360
+55. bac-p-ums-user-profile platform-team-alerts ['i-076ce40104e8d4d36'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-ums-user-profile/ff0774796a788f84 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-ums/aa125869f2978360
+129. Skipping this TG - bac-p-unseen-online, as no Instances are attached to it.
+130. Skipping this TG - bac-p-upload-backend-tg, as Alerts Tag is not setup in its instance - ['i-04d535580ed58b19a'] and key_exists - 0.
+131. Skipping this TG - bac-p-user-profile-fallback-tg, as Alerts Tag is not setup in its instance - ['i-0863e474d0bead73f'] and key_exists - 0.
+132. Skipping this TG - bac-p-video-media-convert-lambda, as InstanceId - arn:aws:lambda:ap-southeast-1:847438129436:function:video-media-convert is not Valid.
+56. bac-p-vision-tg feed-tech-alerts ['i-08c3ad68303266fb2'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-vision-tg/38b1310ad58cdf2e arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+133. Skipping this TG - bac-p-wallet, as Alerts Tag is not setup in its instance - ['i-05819cc7ad15e4b44'] and key_exists - 0.
+134. Skipping this TG - bac-p-wallet-worker-tg, as Alerts Tag is not setup in its instance - ['i-024656d709bfe73bf'] and key_exists - 0.
+57. bac-p-whatsapp platform-team-alerts ['i-0d7ca1f7e475e88a6'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-whatsapp/87891844096335f2 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-alb/52a5488cbecab7cb
+58. bac-p-whatsapp-callback platform-team-alerts ['i-039e9f0049e07a8ce'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-whatsapp-callback/76d332075fded8bf arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+59. bac-p-whatsapp-client platform-team-alerts ['i-0a8bf080649bb36bf'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-whatsapp-client/775ebc417b710c39 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+60. bac-p-whatsapp-int platform-team-alerts ['i-039e9f0049e07a8ce'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/bac-p-whatsapp-int/6675961410f67338 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-file-upload-service-alb/0b12b281ccf49451
+135. Skipping this TG - bac-p-zk-web-config, as Alerts Tag is not setup in its instance - ['i-0da35e237de47f751'] and key_exists - 0.
+136. Skipping this TG - data-p-metabase-clone-temp-tg, as Alerts Tag is not setup in its instance - ['i-0a8f906da46227d7f'] and key_exists - 0.
+137. Skipping this TG - data-p-metabase-clone-tg, as Alerts Tag is not setup in its instance - ['i-0c260f26e270e9822'] and key_exists - 0.
+138. Skipping this TG - data-p-metabase-presto-tg, as Alerts Tag is not setup in its instance - ['i-08b232b923268aadd'] and key_exists - 0.
+139. Skipping this TG - data-p-metabase-tg, as Alerts Tag is not setup in its instance - ['i-0ef99766de76354a8'] and key_exists - 0.
+61. data-p-metastoreapi-tg data-platform-alerts ['i-0f0c8d8994336d5b6'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/data-p-metastoreapi-tg/abb3f5aef193a1f6 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+140. Skipping this TG - data-p-prism-internal-tg, as Alerts Tag is not setup in its instance - ['i-0222c303d2fc7aff8'] and key_exists - 0.
+141. Skipping this TG - data-p-prism-jupyterhub-tg, as InstanceId - 172.31.63.119 is not Valid.
+142. Skipping this TG - data-p-prism-knox, as InstanceId - 10.20.30.52 is not Valid.
+143. Skipping this TG - data-p-prism-livy-jupyterhub-int, as InstanceId - 10.20.30.98 is not Valid.
+144. Skipping this TG - data-p-prism-ranger-tg, as InstanceId - 10.20.30.238 is not Valid.
+145. Skipping this TG - data-p-prism-tg, as Alerts Tag is not setup in its instance - ['i-0222c303d2fc7aff8'] and key_exists - 0.
+146. Skipping this TG - data-p-rancher-oidcclient-tg, as it is not attahced to any ELB
+147. Skipping this TG - data-p-rancher-oidcclient-tg-new, as InstanceId - 10.20.30.212 is not Valid.
+148. Skipping this TG - data-p-sp-coordinator, as InstanceId - 10.20.20.165 is not Valid.
+149. Skipping this TG - data-science-insights-tg, as no Instances are attached to it.
+150. Skipping this TG - dataplatform-p-indo-messaging, as InstanceId - 10.10.20.174 is not Valid.
+151. Skipping this TG - dataplatform-p-prism-notebook-tg, as InstanceId - 10.20.30.239 is not Valid.
+152. Skipping this TG - devops-alerts, as Instance - 10.20.30.239 has State - unused.
+153. Skipping this TG - devops-alertsapi, as Instance - 10.20.30.239 has State - unused.
+154. Skipping this TG - devops-p-adhoc-cicd, as Alerts Tag is not setup in its instance - ['i-01c6fda1a3695bab4'] and key_exists - 0.
+155. Skipping this TG - devops-p-cicd-trigger-tg, as Alerts Tag is not setup in its instance - ['i-03b1c6d155d219d83'] and key_exists - 0.
+156. Skipping this TG - devops-p-config-mgmt, as Alerts Tag is not setup in its instance - ['i-004df5095e4b03eec'] and key_exists - 0.
+157. Skipping this TG - front-p-admin-panel-tg, as Instance - ['i-004df5095e4b03eec'] has State - unused.
+158. Skipping this TG - front-p-blog, as Alerts Tag is not setup in its instance - ['i-0a054d0bc17aaeedb'] and key_exists - 0.
+159. Skipping this TG - front-p-catalog-panel-new-tg, as Instance - ['i-0a054d0bc17aaeedb'] has State - unused.
+160. Skipping this TG - front-p-community, as Alerts Tag is not setup in its instance - ['i-0302cdd1037025bcf'] and key_exists - 0.
+161. Skipping this TG - front-p-community-tg, as Alerts Tag is not setup in its instance - ['i-0af39f38ad44e5c08'] and key_exists - 0.
+162. Skipping this TG - front-p-farmiso, as Alerts Tag is not setup in its instance - ['i-0838040b7b27f6bb2'] and key_exists - 0.
+163. Skipping this TG - front-p-farmiso-admin-panel, as Alerts Tag is not setup in its instance - ['i-0cf99362160594e08'] and key_exists - 0.
+62. front-p-farmiso-champ-tg farmiso-devops-alerts ['i-04da269b0d11a87dc'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/front-p-farmiso-champ-tg/5f2105cdb297ce3e arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/front-p-farmiso/4e871ba9b5423280
+63. front-p-farmiso-customer-tg farmiso-devops-alerts ['i-08650122b60a895f0'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/front-p-farmiso-customer-tg/586d6c02152184c4 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/front-p-farmiso/4e871ba9b5423280
+164. Skipping this TG - front-p-mba-tg, as Alerts Tag is not setup in its instance - ['i-003035421afffe88b'] and key_exists - 0.
+165. Skipping this TG - front-p-meesho-com, as Alerts Tag is not setup in its instance - ['i-0fa7fa9ef63582d52'] and key_exists - 0.
+166. Skipping this TG - front-p-pow-new-tg, as Alerts Tag is not setup in its instance - ['i-0bc8d0a7f2d56f3d4'] and key_exists - 0.
+167. Skipping this TG - front-p-prism-node-ui-tg, as Alerts Tag is not setup in its instance - ['i-07378f2def08ec507'] and key_exists - 0.
+168. Skipping this TG - front-p-prism-ui-tg, as Alerts Tag is not setup in its instance - ['i-07378f2def08ec507'] and key_exists - 0.
+169. Skipping this TG - front-p-pwa, as it is not attahced to any ELB
+170. Skipping this TG - front-p-reseller-logo, as Alerts Tag is not setup in its instance - ['i-08287204d5c1b16c2'] and key_exists - 0.
+171. Skipping this TG - front-p-reseller-website-tg, as Alerts Tag is not setup in its instance - ['i-0aba4ac37e6eb9664'] and key_exists - 0.
+172. Skipping this TG - front-p-supplier-panel-new, as Alerts Tag is not setup in its instance - ['i-023d785a513271b5b'] and key_exists - 0.
+173. Skipping this TG - front-p-supplier-panel-new-node, as Alerts Tag is not setup in its instance - ['i-023d785a513271b5b'] and key_exists - 0.
+174. Skipping this TG - front-p-supplier-panel-tg, as Alerts Tag is not setup in its instance - ['i-038c1f3ac3d823c4f'] and key_exists - 0.
+175. Skipping this TG - front-p-webviews, as Alerts Tag is not setup in its instance - ['i-0ab4d5133bab2d799'] and key_exists - 0.
+176. Skipping this TG - k8s-bacpfarm-farmisor-92d7af25b9, as InstanceId - 10.200.137.252 is not Valid.
+177. Skipping this TG - k8s-bacpnoti-notifica-174067351f, as InstanceId - 10.200.169.26 is not Valid.
+178. Skipping this TG - k8s-bacprule-ruleengi-66d2b0115b, as InstanceId - 10.200.166.230 is not Valid.
+179. Skipping this TG - k8s-frontppo-pow-16ebd7d51f, as InstanceId - 10.200.109.213 is not Valid.
+180. Skipping this TG - k8s-frontpsu-supplyad-99e24de56b, as InstanceId - 10.200.100.191 is not Valid.
+181. Skipping this TG - k8s-frontpsu-supplyup-02c31a348a, as InstanceId - 10.200.182.201 is not Valid.
+182. Skipping this TG - k8s-monitori-ekspromg-dcc4d4db57, as InstanceId - 10.200.174.223 is not Valid.
+183. Skipping this TG - lambda-notify-creative-image, as InstanceId - arn:aws:lambda:ap-southeast-1:847438129436:function:notify-creative-image-maker-lambda is not Valid.
+184. Skipping this TG - lambda-pbf9qZaTf3crqNpKZqo1, as InstanceId - arn:aws:lambda:ap-southeast-1:847438129436:function:notification_image_variants is not Valid.
+185. Skipping this TG - lambda-text-to-image, as InstanceId - arn:aws:lambda:ap-southeast-1:847438129436:function:text-to-image is not Valid.
+186. Skipping this TG - platform-p-alertmanager, as Alerts Tag is not setup in its instance - ['i-078f60751483f1b58'] and key_exists - 0.
+187. Skipping this TG - platform-p-competitive-scrap, as Instance - ['i-078f60751483f1b58'] has State - unused.
+188. Skipping this TG - platform-p-grafana, as Alerts Tag is not setup in its instance - ['i-0dadcb19b164c7cef'] and key_exists - 0.
+189. Skipping this TG - platform-p-grafana-tg, as Alerts Tag is not setup in its instance - ['i-0dadcb19b164c7cef'] and key_exists - 0.
+190. Skipping this TG - platform-p-graylog, as Alerts Tag is not setup in its instance - ['i-0a673fbce42a5b729'] and key_exists - 0.
+191. Skipping this TG - platform-p-prometheus, as Alerts Tag is not setup in its instance - ['i-0a51dec0faaf4ef75'] and key_exists - 0.
+192. Skipping this TG - platform-p-qwest-sq, as Alerts Tag is not setup in its instance - ['i-0e017dbd7ddf9c374'] and key_exists - 0.
+193. Skipping this TG - platform-p-qwest-text-search-tg, as Alerts Tag is not setup in its instance - ['i-0fe5e7e93aa75d22e'] and key_exists - 0.
+194. Skipping this TG - platform-p-qwest-tg, as Alerts Tag is not setup in its instance - ['i-0cb6df10324a4700e'] and key_exists - 0.
+64. platform-p-qwest-vs search-tech-alerts ['i-0c2acf9792b121af4'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/platform-p-qwest-vs/b0ed30884fa996fb arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/platform-p-qwest-alb/81c1378f6eee6c30
+195. Skipping this TG - presto-cordinator-int-tg, as InstanceId - 10.20.20.164 is not Valid.
+65. presto-cordinator-int-tg search-tech-alerts 10.20.20.164 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/presto-cordinator-int-tg/af0f65970a5f4aa3 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+196. Skipping this TG - prometheus-api, as no Instances are attached to it.
+66. qwest-sort-filter search-tech-alerts ['i-0bcd3d8d44224fdc5'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/qwest-sort-filter/144dea48c4df6faa arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/platform-p-qwest-alb/81c1378f6eee6c30
+67. qwest-text-search-worker-tg search-tech-alerts ['i-00a8a08cdd95a524b'] arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/qwest-text-search-worker-tg/ecd57a35ec89c88d arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/bac-p-notification-alb/8fe95c1419cb49e7
+197. Skipping this TG - sbpresto-readonly-cordinator-tg, as InstanceId - 10.20.30.100 is not Valid.
+68. sbpresto-readonly-cordinator-tg search-tech-alerts 10.20.30.100 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:targetgroup/sbpresto-readonly-cordinator-tg/b3541ac4cf19d318 arn:aws:elasticloadbalancing:ap-southeast-1:847438129436:loadbalancer/app/shared-p-office-int-alb/3a68619ebb17f14d
+198. Skipping this TG - shared-p-sensu, as Alerts Tag is not setup in its instance - ['i-0ac75ed6a76daf63a'] and key_exists - 0.
+199. Skipping this TG - sonarqube-p-tg, as Alerts Tag is not setup in its instance - ['i-060daed235b424abe'] and key_exists - 0.
+200. Skipping this TG - supply-api-v2-cron-worker, as Alerts Tag is not setup in its instance - ['i-0d26b042edcb748ae'] and key_exists - 0.
+201. Skipping this TG - supply-api-v2-prod, as Alerts Tag is not setup in its instance - ['i-04f4c07d9bc50f0a5'] and key_exists - 0.
+202. Skipping this TG - tg-order-sync-consumer, as Alerts Tag is not setup in its instance - ['i-05a1b3cb793917afc'] and key_exists - 0.
+Created Alarms for TGs - 69 
+ Skipped TGs - 203 
+ Total TGs - 272

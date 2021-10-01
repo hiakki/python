@@ -1,2 +1,4 @@
 #!/usr/bin/env python3
-exec(ls)
+import os
+
+os.execl('ls')
